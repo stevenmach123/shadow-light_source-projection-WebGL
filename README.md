@@ -2,11 +2,10 @@
 ## Link
   - https://stevenmach123.github.io/shadow-light_source-projection-WebGL/
 ### How to run the program 
-Load JSON file of cities eg.Chicago.json Manhattan.json on same folder when click Choose File. Then will see building with shadows in perspective view by default. 
-
-Slider Rotate Camera will rotate the model. Change projection with perspective or orthogonal will change our view of model. Not how light source project. Light source by default is orthogonal   
-
-Slider Projection, gonna rotate the light source, so will observe the shadow change direction as response to now light direction project on. Then, you will see as Rotate the Camera, the shadow behind building expect to stick with building in same position as model not rotate. 
+  1. Download or clone repository.
+  2. Load JSON file of cities eg.Chicago.json Manhattan.json on same folder when click Choose File. Then will see building with shadows in perspective view by default. 
+  3. Slider Rotate Camera will rotate the model. Change projection with perspective or orthogonal will change our view of model. Not how light source project. Light source by default is orthogonal   
+  4. Slider Projection, gonna rotate the light source, so will observe the shadow change direction as response to now light direction project on. Then, you will see as Rotate the Camera, the shadow behind building expect to stick with building in same position as model not rotate. 
 
 
 #### NOTE: the alphabet , can infer to alphabet on code portion where I want to  place.  
