@@ -1,7 +1,6 @@
-# CS425 - Computer Graphics I (Spring 2021)
-
-## Assignment 2: Shadow maps
-
+## Computer Graphics I - Shadow maps
+## Link
+  - https://stevenmach123.github.io/shadow-light_source-projection-WebGL/
 ### How to run the program 
 Load JSON file of cities eg.Chicago.json Manhattan.json on same folder when click Choose File. Then will see building with shadows in perspective view by default. 
 
